@@ -1,1 +1,4 @@
+git init , git status, git add, git config, git commit, 
 hi?
+입력 i
+esc :wq
