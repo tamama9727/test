@@ -1,6 +1,5 @@
 -git init , git status, git add, git config, git commit, 
 -git log
 -pwd, ls, cd, vi, touch
-hi?
 입력 i
 esc :wq
